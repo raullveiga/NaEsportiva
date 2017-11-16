@@ -1,6 +1,6 @@
 namespace Dominio.interfaces
 {
-    interface IDominio
+    public interface IDominio
     {
          string Cadastrar();
          string Consultar();
