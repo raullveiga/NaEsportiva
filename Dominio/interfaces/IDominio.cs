@@ -1,7 +1,9 @@
-namespace .
+namespace Dominio.interfaces
 {
-    public interface IDominio
+    interface IDominio
     {
+         string Cadastrar();
+         string Consultar();
          
     }
 }
