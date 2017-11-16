@@ -1,4 +1,4 @@
-namespace .
+namespace Dominio.interfaces
 {
     public interface IDominio
     {
