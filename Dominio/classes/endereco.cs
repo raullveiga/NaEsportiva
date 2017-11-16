@@ -1,6 +1,6 @@
 namespace Dominio.classes
 {
-    public class endereco
+    public class Endereco
     {
         
     }
