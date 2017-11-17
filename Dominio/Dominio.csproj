@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="Dominio.csproj" />
+    <ProjectReference Include="..\Repositorio\Repositorio.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
